@@ -16,7 +16,7 @@ fancyGraphics:true
 ao:2
 clouds:true
 skin:Sphax PureBDcraft  64x 128x Monster MC1.6.4.zip
-lastServer:5.45.104.115:52999
+lastServer:unitedworldminers.com:25590
 lang:en_US
 chatVisibility:0
 chatColors:true
