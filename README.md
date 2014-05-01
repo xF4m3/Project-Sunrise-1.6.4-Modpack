@@ -10,7 +10,7 @@ http://www.minecraftforum.net/topic/1988826-172164-forge-advanced-genetics-mod/
 author: TeamDNA
 
 Advanced Solar Panel: 
-http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291			
+http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291	               
 author: SeNtiMeL 
 
 AdvancedMachiens Immbis:
@@ -42,7 +42,7 @@ http://www.minecraftforum.net/topic/1932156-16x-atg-alternate-terrain-generation
 author: TTFTCUTS
 
 Autoutils: 
-http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/					
+http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/                           
 author: AUTOMATIC_MAIDI
 
 
