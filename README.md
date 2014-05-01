@@ -1,5 +1,5 @@
-[I am Still working on a big Textfile with every permission needed, it is alot of work though So just be patient ;)
-Mods with a ~ don’t have permissions yet but are asked for, just waiting on a reply.]
+I am Still working on a big Textfile with every permission needed, it is alot of work though So just be patient ;)
+Mods with a ~ don’t have permissions yet but are asked for, just waiting on a reply.
 
 You are allowed to use this modpack for your servers, but you are not allowed to make money out of this in any way because the mod authors strictly forbid it! You will be fully responsible for what you do with this modpack or all mods which are in it.
 
@@ -113,10 +113,6 @@ author: chickenbones
 CoFH: 
 http://www.minecraftforum.net/topic/1773528-164-team-cofh-mods-thermal-expansion-3000/
 author: KingLemmingCoFH
-
-Compactsolars: 
-http://forum.industrial-craft.net/?page=Thread&threadID=4827
-author: cpw
 
 Computercraft: 
 http://www.computercraft.info/
@@ -341,8 +337,6 @@ PneumaticCraft:
 http://www.minecraftforum.net/topic/1841226-172forgesspsmptechmod-pneumaticcraft/
 author: MineMaarten
 
-~Portalgun: 
-
 PowerCrystalCore: 
 http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/
 author: power crystals
@@ -355,7 +349,7 @@ Project Red:
 http://www.minecraftforum.net/topic/1885652-164forge-multipart-projectred-v43431-412014/
 author: Mr_TJP
 
-QuarryPlus: 
+QuarryPlus:  
 http://denoflionsx.info./
 author: denoflionsx 
 
