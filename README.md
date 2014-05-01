@@ -281,10 +281,6 @@ Morph:
 http://ichun.us/mods/morph/                                                                                             
 author: iChun
 
-~Mystcraft: 
-http://binarymage.com/forum/viewforum.php?f=9                                                                           
-author: xcompwiz
-
 Natura: 
 http://www.minecraftforum.net/topic/1753754-16xnatura/                                                                    
 author: mDiyo
