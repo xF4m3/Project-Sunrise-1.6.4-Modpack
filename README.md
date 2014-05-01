@@ -10,15 +10,15 @@ http://www.minecraftforum.net/topic/1988826-172164-forge-advanced-genetics-mod/
 author: TeamDNA
 
 Advanced Solar Panel: 
-http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291	               
+http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291                        
 author: SeNtiMeL 
 
 AdvancedMachiens Immbis:
-http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html			
+http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html                        
 author: Immbis
 
 Agriculture: 
-http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html			
+http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html                        
 author: Agent_W
 
 ArsMagica2: 
@@ -38,11 +38,11 @@ http://www.minecraftforum.net/topic/1679684-forge-164172-aroma1997s-mods-betterc
 author: Aroma1997
 
 ATG: 
-http://www.minecraftforum.net/topic/1932156-16x-atg-alternate-terrain-generation/	
+http://www.minecraftforum.net/topic/1932156-16x-atg-alternate-terrain-generation/        
 author: TTFTCUTS
 
 Autoutils: 
-http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/                           
+http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/                                        
 author: AUTOMATIC_MAIDI
 
 
@@ -51,27 +51,27 @@ http://www.minecraftforum.net/topic/1114612-172-bspkrs-mods-armorstatushud-direc
 author: bspkrs
 
 Backpack: 
-http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-12837/				
+http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-12837/                                
 author: Eydamos
 
 Bdlib: 
-http://www.curse.com/mc-mods/minecraft/Bdlib 							
+http://www.curse.com/mc-mods/minecraft/Bdlib                                                         
 author: bdew
 
 Better Storage: 
-http://www.minecraftforum.net/topic/1548203-164-betterstorage-08045-wip/ 		
+http://www.minecraftforum.net/topic/1548203-164-betterstorage-08045-wip/                 
 author: copygirl
 
 Bibliocraft: 
-www.bibliocraftmod.com 														
+www.bibliocraftmod.com                                                                                                                 
 author: Nuchaz
 
 Bibliowoods:
-http://www.bibliocraftmod.com/?page_id=50#bibliowoods 						
+http://www.bibliocraftmod.com/?page_id=50#bibliowoods                                                 
 author: Ash
 
 Bigreactors: 
-http://www.big-reactors.com/about.html											
+http://www.big-reactors.com/about.html                                                                                        
 author: E.Beef
 
 Binnie mods: 
@@ -91,23 +91,23 @@ http://www.minecraftforum.net/topic/682821-16xbc4x106-additional-buildcraft-obje
 author: Flow86
 
 CalclaivaCore: 
-http://calclavia.com/calclavia-core/ 											
+http://calclavia.com/calclavia-core/                                                                                         
 author: calclavia
 
 Carpenter Blocks: 
-http://www.minecraftforum.net/topic/1790919-17forge-carpenters-blocks-v314/ 	
+http://www.minecraftforum.net/topic/1790919-17forge-carpenters-blocks-v314/         
 author: Mineshopper
 
 Chicken Chunks: 
-http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/ 			
+http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/                         
 author: chickenbones
 
 Chisle: 
-http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/ 			
+http://www.minecraftforum.net/topic/1749374-164smpforge-chisel/                         
 author: AUTOMATIC_MAIDI
 
 CodeChickenCore: 
-http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/ 				
+http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/                                 
 author: chickenbones
 
 CoFH: 
@@ -115,19 +115,19 @@ http://www.minecraftforum.net/topic/1773528-164-team-cofh-mods-thermal-expansion
 author: KingLemmingCoFH
 
 Computercraft: 
-http://www.computercraft.info/ 										
+http://www.computercraft.info/                                                                                 
 author: dan200
 
 DenLib:
-http://denoflionsx.info./ 											
+http://denoflionsx.info./                                                                                         
 author: denoflionsx 
 
 Denpipes: 
-http://denoflionsx.info./ 												
+http://denoflionsx.info./                                                                                                 
 author: denoflionsx 
 
 Denpipes Emerald:
-http://denoflionsx.info./ 												
+http://denoflionsx.info./                                                                                                 
 author: denoflionsx 
 
 DamadgeIndicators: 
@@ -135,7 +135,7 @@ http://www.minecraftforum.net/topic/1536685-172164forge-hit-splat-damage-indicat
 author: rich1051414
 
 DragonAPI:
-https://sites.google.com/site/reikasminecraft/dragonapi 					
+https://sites.google.com/site/reikasminecraft/dragonapi                                         
 author: reika
 "So long as you do not sell any of my stuff for profit or otherwise restrict it to donators, go ahead. :)"
 
@@ -148,23 +148,23 @@ http://www.minecraftforum.net/topic/1937619-171615-ender-io-how-many-pipes-in-on
 author: CrazyPants
 
 EnderNet: 
-http://mc.shinonome.ch/doku.php#license 								
+http://mc.shinonome.ch/doku.php#license                                                                 
 auhtor: asie
 
 Ender Storage: 
-http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/ 		
+http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/                 
 author: chickenbones
 
 Enhanced Portals 3: 
-http://www.minecraftforum.net/topic/2143651-172-enhancedportals-3/ 		 	
+http://www.minecraftforum.net/topic/2143651-172-enhancedportals-3/                          
 author: Alz454
 
 EVOC: 
-http://www.mobiusstrip.eu/2013/12/05/evoc-1-0-0-mobiuscore-1-0-4/ 			
+http://www.mobiusstrip.eu/2013/12/05/evoc-1-0-0-mobiuscore-1-0-4/                         
 author: ProfMobius
 
 Expanded Redstone: 
-https://sites.google.com/site/reikasminecraft/dragonapi 				
+https://sites.google.com/site/reikasminecraft/dragonapi                                 
 author: reika
 "So long as you do not sell any of my stuff for profit or otherwise restrict it to donators, go ahead. :)"
 
@@ -185,7 +185,7 @@ http://www.minecraftforum.net/topic/1745463-164forge-food-plus-mod-more-food-tha
 author: JoseTheCrafter
 
 Forestry: 
-http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#license 		
+http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#license                 
 author: Sengir
 
 Fossilarch Reported: 
@@ -197,20 +197,20 @@ http://www.minecraftforum.net/topic/2160265-gendustry-111-updated-2304-172-alpha
 author: bdew
 
 Geostrata: 
-https://sites.google.com/site/reikasminecraft/dragonapi 				
+https://sites.google.com/site/reikasminecraft/dragonapi                                 
 author: reika
 "So long as you do not sell any of my stuff for profit or otherwise restrict it to donators, go ahead. :)"
 
 Gregtech: 
-http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156& 		
+http://forum.industrial-craft.net/index.php?page=Thread&threadID=7156&                 
 author: GregoriusT
 
 HopperDuctsMod: 
-http://www.minecraftforum.net/topic/1932977-15x16x172-hopper-ducts-mod/ 		
+http://www.minecraftforum.net/topic/1932977-15x16x172-hopper-ducts-mod/                 
 author: FyberOptic
 
 IC nuclear COntrol: 
-http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915 		
+http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915                 
 author: Shedar 
 
 iChunUtils: 
@@ -222,7 +222,7 @@ http://www.minecraftforum.net/topic/1001131-164-immibiss-mods-smp-now-with-857-l
 author: Immbiss
 
 Inductrialcraft2: 
-http://www.industrial-craft.net/ 											
+http://www.industrial-craft.net/                                                                                         
 author: IC² Dev Team
 
 InventroyTweaks: 
@@ -262,7 +262,7 @@ http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-
 author: power crystals
 
 MobiusCore: 
-http://www.mobiusstrip.eu/2013/12/05/evoc-1-0-0-mobiuscore-1-0-4/ 				
+http://www.mobiusstrip.eu/2013/12/05/evoc-1-0-0-mobiuscore-1-0-4/                                 
 author: ProfMobius
 
 ~ModularForceFieldSystem: 
@@ -270,11 +270,11 @@ http://www.minecraftforum.net/topic/1703498-164-modular-force-field-system-force
 author: Calclavia
 
 ModularPowersuite: 
-http://machinemuse.net/ 													
+http://machinemuse.net/                                                                                                         
 author: MachineMuse
 
 Gravisuit: 
-http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915 			
+http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915                         
 author: SeNtiMeL 
 
 Morph: 
@@ -282,23 +282,23 @@ http://ichun.us/mods/morph/
 author: iChun
 
 ~Mystcraft: 
-http://binarymage.com/forum/viewforum.php?f=9 								
+http://binarymage.com/forum/viewforum.php?f=9                                                                 
 author: xcompwiz
 
 Natura: 
-http://www.minecraftforum.net/topic/1753754-16xnatura/ 							
+http://www.minecraftforum.net/topic/1753754-16xnatura/                                                         
 author: mDiyo
 
 NeiAddons: 
-http://www.minecraftforum.net/topic/1803460-nei-addons-v1104-updated-190214/ 		
+http://www.minecraftforum.net/topic/1803460-nei-addons-v1104-updated-190214/                 
 author: bdew
 
 NeiPluigns: 
-https://bitbucket.org/mistaqur/nei_plugins/wiki/Home 							
+https://bitbucket.org/mistaqur/nei_plugins/wiki/Home                                                         
 author: mistaqur
 
 NEI: 
-http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/ 			
+http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/                         
 author: chicken_bones
 
 Not Enough Keys: 
@@ -310,23 +310,23 @@ http://machinemuse.net/
 author: MachienMuse
 
 ObsidianPlates: 
-http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/ 			
+http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/                         
 author: Myrathi
 
 Openblocks: 
-http://www.minecraftforum.net/topic/1941514-16x-openblocks-127/ 			
+http://www.minecraftforum.net/topic/1941514-16x-openblocks-127/                         
 author: Mikeemoo
 
 Openmodslib: 
-http://www.minecraftforum.net/topic/1941514-16x-openblocks-127/ 				
+http://www.minecraftforum.net/topic/1941514-16x-openblocks-127/                                 
 author: Mikeemoo
 
 OpenPeripheral addons: 
-http://www.minecraftforum.net/topic/1941514-16x-openblocks-127/ 				
+http://www.minecraftforum.net/topic/1941514-16x-openblocks-127/                                 
 author: Mikeemoo
 
 OpenPeripheral Core: 
-http://www.minecraftforum.net/topic/1941514-16x-openblocks-127/ 				
+http://www.minecraftforum.net/topic/1941514-16x-openblocks-127/                                 
 author: Mikeemoo
 
 Power Converter: 
@@ -350,15 +350,15 @@ http://www.minecraftforum.net/topic/1885652-164forge-multipart-projectred-v43431
 author: Mr_TJP
 
 QuarryPlus:  
-http://denoflionsx.info./ 															
+http://denoflionsx.info./                                                                                                                         
 author: denoflionsx 
 
 ~Railcraft: 
-http://www.minecraftforum.net/topic/701990-162-railcraft-8000-forge/ 			
+http://www.minecraftforum.net/topic/701990-162-railcraft-8000-forge/                         
 author: CovertJaguar 
 
 Randomthings: 
-http://www.minecraftforum.net/topic/1832047-16x172-random-things-20-remake/ 		
+http://www.minecraftforum.net/topic/1832047-16x172-random-things-20-remake/                 
 author: lumien
 "You can use it :)"
 
@@ -367,7 +367,7 @@ http://www.minecraftforum.net/topic/1773528-164-team-cofh-mods-thermal-expansion
 author: KingLemmingCoFH
 
 Reliquary: 
-http://www.minecraftforum.net/topic/2237899-164v112-reliquary/ 					
+http://www.minecraftforum.net/topic/2237899-164v112-reliquary/                                         
 author: TheMike
 
 RemoteIo: 
@@ -379,19 +379,19 @@ http://www.minecraftforum.net/topic/1588460-162forge-revamp-rivvests-enhanced-vi
 author: rivvest
 
 Rouguelike: 
-http://www.minecraftforum.net/topic/1874883-164roguelike-dungeonsv130/ 			
+http://www.minecraftforum.net/topic/1874883-164roguelike-dungeonsv130/                         
 author: Greymerk
 
 RotaryCraft: 
-https://sites.google.com/site/reikasminecraft/dragonapi 						
+https://sites.google.com/site/reikasminecraft/dragonapi                                                 
 author: reika
 "So long as you do not sell any of my stuff for profit or otherwise restrict it to donators, go ahead. :)"
 
 Slickutil: 
-http://slick.ninjacave.com/slick-util/ 				 							
+http://slick.ninjacave.com/slick-util/                                                                                          
 author: Slick2D
 
-SortFix: https://github.com/LexManos 											
+SortFix: https://github.com/LexManos                                                                                         
 author: LexManos
 
 SpecialMobs: 
@@ -399,27 +399,27 @@ http://www.minecraftforum.net/topic/1153874-16x-forge-father-toasts-mods-special
 author: FatherToast
 
 Steaves Carts: 
-http://stevescarts2.wikispaces.com/ 											
+http://stevescarts2.wikispaces.com/                                                                                         
 author: Vswe
 
 Switches: 
-http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/ 			
+http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/                         
 author: Myrathis
 
 Sync2: 
-http://ichun.us/mods/sync/ 														
+http://ichun.us/mods/sync/                                                                                                                 
 author: iChun
 
 Tconstruct: 
-http://www.minecraftforum.net/topic/1659892-164tinkers-construct/ 					
+http://www.minecraftforum.net/topic/1659892-164tinkers-construct/                                         
 author: mDiyo
 
 Thaumcraft4.1:
-http://www.minecraftforum.net/topic/2011841-thaumcraft-41111-updated-2642014/ 				
+http://www.minecraftforum.net/topic/2011841-thaumcraft-41111-updated-2642014/                                 
 author: Azanor
 
 ThaumcraftMobAspects: 
-http://www.minecraftforum.net/topic/2090604-16x-thaumcraft-addon-mob-aspects/ 				
+http://www.minecraftforum.net/topic/2090604-16x-thaumcraft-addon-mob-aspects/                                 
 authors: iguana_man, XanderGryphon, Lycaon
 
 ThaumicTinkerer: 
@@ -451,7 +451,7 @@ http://www.minecraftforum.net/topic/561673-172-the-twilight-forest-v203-updated-
 author: Benimatic
 
 Universal Electricity: 
-http://universalelectricity.com/ 													
+http://universalelectricity.com/                                                                                                         
 author: Calclavia 
 
 VoxelMap: 
@@ -459,15 +459,15 @@ http://www.minecraftforum.net/topic/1116564-164-162-mamiyaotarus-mods-voxelmap-c
 author: MamiyaOtaru
 
 Waila: 
-http://www.minecraftforum.net/topic/1846244-172-waila-152/ 					
+http://www.minecraftforum.net/topic/1846244-172-waila-152/                                         
 author: ProfMobius
 
 Witchery:
-http://www.minecraftforum.net/topic/1992544-164-forge-witchery-0181/  			
+http://www.minecraftforum.net/topic/1992544-164-forge-witchery-0181/                          
 author: Emoniph
 
 WR-CBE: 
-http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/ 				
+http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/                                 
 author: chicken_bones
 
 XACT:
@@ -475,7 +475,7 @@ http://www.minecraftforum.net/topic/1551715-xact-xhamolk-s-advanced-crafting-tab
 author: Xhamolk_
 
 ZansMinimap: 
-https://github.com/lahwran/zanmini 												
+https://github.com/lahwran/zanmini                                                                                                 
 author: lahwran
 
 Zminetweaker: 
