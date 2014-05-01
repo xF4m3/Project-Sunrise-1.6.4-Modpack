@@ -6,7 +6,7 @@ You are allowed to use this modpack for your servers, but you are not allowed to
 Latest Available Mod Version for 1.6.4 (Counts for all mods)
 
 Advanced Genetics: 
-http://www.minecraftforum.net/topic/1988826-172164-forge-advanced-genetics-mod/
+http://www.minecraftforum.net/topic/1988826-172164-forge-advanced-genetics-mod/                          
 author: TeamDNA
 
 Advanced Solar Panel: 
@@ -26,15 +26,15 @@ http://www.minecraftforum.net/topic/2028696-ars-magica-2-164-version-112b-update
 author: Mithion
 
 AOBD: 
-http://www.minecraftforum.net/topic/2319703-172-aobd-ticic2eiomekanism-add-on-process-cobalt-ardite-and-aluminium-v141/
+http://www.minecraftforum.net/topic/2319703-172-aobd-ticic2eiomekanism-add-on-process-cobalt-ardite-and-aluminium-v141/                      
 author: ganymedes01
 
 Applied Energistic: 
-http://www.minecraftforum.net/topic/1625015-15x-16x-applied-energistics-rv-13-c-exploiting-quantum-mechanics/
+http://www.minecraftforum.net/topic/1625015-15x-16x-applied-energistics-rv-13-c-exploiting-quantum-mechanics/                               
 author: AlgorithmX2
 
 Aroma1997Core: 
-http://www.minecraftforum.net/topic/1679684-forge-164172-aroma1997s-mods-betterchests-mining-world-mod-aroma1997core-compactwindmills-aromabackup-portablerecharger/
+http://www.minecraftforum.net/topic/1679684-forge-164172-aroma1997s-mods-betterchests-mining-world-mod-aroma1997core-compactwindmills-aromabackup-portablerecharger/                                                                                                             
 author: Aroma1997
 
 ATG: 
@@ -47,7 +47,7 @@ author: AUTOMATIC_MAIDI
 
 
 bspkrsCore, StatusEffectHUD, Armor Status HUD: 
-http://www.minecraftforum.net/topic/1114612-172-bspkrs-mods-armorstatushud-directionhud-statuseffecthud/
+http://www.minecraftforum.net/topic/1114612-172-bspkrs-mods-armorstatushud-directionhud-statuseffecthud/                                   
 author: bspkrs
 
 Backpack: 
@@ -75,7 +75,7 @@ http://www.big-reactors.com/about.html
 author: E.Beef
 
 Binnie mods: 
-http://www.minecraftforum.net/topic/1324321-152sspsmpforestry-extra-bees-and-trees-170-revolutionize-your-bee-and-tree-breeding/
+http://www.minecraftforum.net/topic/1324321-152sspsmpforestry-extra-bees-and-trees-170-revolutionize-your-bee-and-tree-breeding/             
 author: Binnie
 
 Biomes o plenty: 
@@ -131,16 +131,16 @@ http://denoflionsx.info./
 author: denoflionsx 
 
 DamadgeIndicators: 
-http://www.minecraftforum.net/topic/1536685-172164forge-hit-splat-damage-indicators-v311-rpg-ui-and-damage-amount-mod/
+http://www.minecraftforum.net/topic/1536685-172164forge-hit-splat-damage-indicators-v311-rpg-ui-and-damage-amount-mod/                      
 author: rich1051414
 
 DragonAPI:
 https://sites.google.com/site/reikasminecraft/dragonapi                                         
-author: reika
+author: reika                                                                                                                            
 "So long as you do not sell any of my stuff for profit or otherwise restrict it to donators, go ahead. :)"
 
 ElectromagicTools: 
-http://www.minecraftforum.net/topic/2196652-172smpforgeindustrialcraft-2thaumcraft-4-electro-magic-tools-now-with-over-15-000-downloads-updated-170414/
+http://www.minecraftforum.net/topic/2196652-172smpforgeindustrialcraft-2thaumcraft-4-electro-magic-tools-now-with-over-15-000-downloads-updated-170414/                                                                                                                            
 author: Tombenpotter
 
 Ender IO: 
@@ -165,7 +165,7 @@ author: ProfMobius
 
 Expanded Redstone: 
 https://sites.google.com/site/reikasminecraft/dragonapi                                 
-author: reika
+author: reika                                                                                                                             
 "So long as you do not sell any of my stuff for profit or otherwise restrict it to donators, go ahead. :)"      
 
 ExtraCells: 
@@ -177,11 +177,11 @@ http://www.minecraftforum.net/topic/1776056-164forge-extra-utilities-v103c/
 author: RWTema
 
 ~Farlanders: 
-http://www.minecraftforum.net/topic/1501583-164spmp-the-farlanders-v11c-farlander-villages-endumium-ore-and-titans/
+http://www.minecraftforum.net/topic/1501583-164spmp-the-farlanders-v11c-farlander-villages-endumium-ore-and-titans/                        
 author: Fabiulu
 
 FoodPlus: 
-http://www.minecraftforum.net/topic/1745463-164forge-food-plus-mod-more-food-than-you-can-imagine-v28pre4-upd19042014-bug-tracker-please-read-the-latest-news-section/
+http://www.minecraftforum.net/topic/1745463-164forge-food-plus-mod-more-food-than-you-can-imagine-v28pre4-upd19042014-bug-tracker-please-read-the-latest-news-section/                                                                                                                  
 author: JoseTheCrafter
 
 Forestry: 
@@ -189,7 +189,7 @@ http://forestry.sengir.net/wiki.new/doku.php?id=main:downloads#license
 author: Sengir
 
 Fossilarch Reported: 
-http://www.minecraftforum.net/topic/1708636-152sspsmp-fossils-and-archeology-revival-152-build-53-updated-august-11-2013/
+http://www.minecraftforum.net/topic/1708636-152sspsmp-fossils-and-archeology-revival-152-build-53-updated-august-11-2013/                   
 author: Fossils and Archeology Revival team
 
 Gendustry: 
@@ -198,7 +198,7 @@ author: bdew
 
 Geostrata: 
 https://sites.google.com/site/reikasminecraft/dragonapi                                 
-author: reika
+author: reika                                                                                                                            
 "So long as you do not sell any of my stuff for profit or otherwise restrict it to donators, go ahead. :)"      
 
 Gregtech: 
@@ -242,7 +242,7 @@ http://www.minecraftforum.net/topic/1831791-16xbuildcraft-logistics-pipes/#licen
 author: theZorro266
 
 Magicla Crops: 
-http://www.minecraftforum.net/topic/1633516-164sspsmp-magical-crops-version-32-farm-your-resources-forge-320-beta-15a-seriously-need-a-new-mod-spotlight-updated-260214/
+http://www.minecraftforum.net/topic/1633516-164sspsmp-magical-crops-version-32-farm-your-resources-forge-320-beta-15a-seriously-need-a-new-mod-spotlight-updated-260214/                                                                                                           
 author: Mark719
 
 Magic Bees: 
@@ -254,11 +254,11 @@ http://www.minecraftforum.net/topic/2049315-164172mariculture-121e-172-beta-2-up
 author: joshie
 
 ~Mimicry: 
-http://www.minecraftforum.net/topic/2201401-164forge-965mimicry-v1382mimic-resources-automation-supportmodular-resource/
+http://www.minecraftforum.net/topic/2201401-164forge-965mimicry-v1382mimic-resources-automation-supportmodular-resource/                   
 author: sparroha
 
 MinefactoryReloaded: 
-http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/
+http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/               
 author: power crystals
 
 MobiusCore: 
@@ -266,7 +266,7 @@ http://www.mobiusstrip.eu/2013/12/05/evoc-1-0-0-mobiuscore-1-0-4/
 author: ProfMobius
 
 ~ModularForceFieldSystem: 
-http://www.minecraftforum.net/topic/1703498-164-modular-force-field-system-force-fields-security-systems-and-automated-construction/
+http://www.minecraftforum.net/topic/1703498-164-modular-force-field-system-force-fields-security-systems-and-automated-construction/    
 author: Calclavia
 
 ModularPowersuite: 
@@ -330,7 +330,7 @@ http://www.minecraftforum.net/topic/1941514-16x-openblocks-127/
 author: Mikeemoo
 
 Power Converter: 
-http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/
+http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/                 
 author: power crystals
 
 PneumaticCraft: 
@@ -338,7 +338,7 @@ http://www.minecraftforum.net/topic/1841226-172forgesspsmptechmod-pneumaticcraft
 author: MineMaarten
 
 PowerCrystalCore: 
-http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/
+http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/               
 author: power crystals
 
 PowerSuite addon: 
@@ -359,7 +359,7 @@ author: CovertJaguar
 
 Randomthings: 
 http://www.minecraftforum.net/topic/1832047-16x172-random-things-20-remake/                                       
-author: lumien
+author: lumien                                                                                                                   
 "You can use it :)"
 
 RedstoneArsenal: 
@@ -375,7 +375,7 @@ http://www.minecraftforum.net/topic/2038242-16x-forge-remote-io-v111-its-time-to
 author: dmillerw
 
 Revamp: 
-http://www.minecraftforum.net/topic/1588460-162forge-revamp-rivvests-enhanced-villagers-and-mob-performance-v122-villagers-climb-ladders-better-zombie-dodging/
+http://www.minecraftforum.net/topic/1588460-162forge-revamp-rivvests-enhanced-villagers-and-mob-performance-v122-villagers-climb-ladders-better-zombie-dodging/                                                                                                                  
 author: rivvest
 
 Rouguelike: 
