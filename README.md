@@ -214,8 +214,8 @@ http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915
 author: Shedar 
 
 iChunUtils: 
-http://ichun.us/mods/ichun-util/
-author:iChun
+http://ichun.us/mods/ichun-util/                                                                                               
+author: iChun
 
 ImmbisCore: 
 http://www.minecraftforum.net/topic/1001131-164-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/   
