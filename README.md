@@ -184,7 +184,7 @@ author: RWTema
 
 Farlanders: 
 http://www.minecraftforum.net/topic/1501583-164spmp-the-farlanders-v11c-farlander-villages-endumium-ore-and-titans/                                                                                               
-"You may use the mod as long as you don't profit with my work and have a link to the official mod page."
+"You may use the mod as long as you don't profit with my work and have a link to the official mod page."                
 author: Fabiulu
 
 FoodPlus: 
