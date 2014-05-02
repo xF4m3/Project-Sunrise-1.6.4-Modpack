@@ -1,9 +1,11 @@
 I am Still working on a big Textfile with every permission needed, it is alot of work though So just be patient ;)
 Mods with a ~ don’t have permissions yet but are asked for, just waiting on a reply.
 
-You are allowed to use this modpack for your servers, but you are not allowed to make money out of this in any way because the mod authors strictly forbid it! You will be fully responsible for what you do with this modpack or all mods which are in it.
+You are allowed to use this modpack for your servers, but you are not allowed to make money out of this in any way because the mod authors strictly forbid it! You will be fully responsible for what you do with this modpack or all mods which are in it. 
 
-Latest Available Mod Version for 1.6.4 (Counts for all mods)
+Creative Commons Attribution 4.0 International License:
+http://creativecommons.org/licenses/by/4.0/
+
 
 Advanced Genetics: 
 http://www.minecraftforum.net/topic/1988826-172164-forge-advanced-genetics-mod/                          
@@ -81,6 +83,10 @@ author: Binnie
 Biomes o plenty: 
 http://www.minecraftforum.net/topic/1495041-172-forge-biomes-o-plenty-were-back/                        
 author: TDWP_FTW
+
+Blood Magic:
+http://www.minecraftforum.net/topic/1899223-172164-blood-magic-v100dv101c-updated-apr-27/                                               
+author:WayofTime
 
 Buildcraft: 
 http://www.minecraftforum.net/topic/682920-172-buildcraft-607-blueprints-pipes-quarry-auto-crafting-building-engines/
@@ -176,8 +182,9 @@ Extrautils:
 http://www.minecraftforum.net/topic/1776056-164forge-extra-utilities-v103c/                                    
 author: RWTema
 
-~Farlanders: 
-http://www.minecraftforum.net/topic/1501583-164spmp-the-farlanders-v11c-farlander-villages-endumium-ore-and-titans/                        
+Farlanders: 
+http://www.minecraftforum.net/topic/1501583-164spmp-the-farlanders-v11c-farlander-villages-endumium-ore-and-titans/                                                                                               
+"You may use the mod as long as you don't profit with my work and have a link to the official mod page."                
 author: Fabiulu
 
 FoodPlus: 
