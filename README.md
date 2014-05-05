@@ -357,9 +357,9 @@ QuarryPlus:
 http://denoflionsx.info./                                                                                         
 author: denoflionsx 
 
-~Railcraft: 
-http://www.minecraftforum.net/topic/701990-162-railcraft-8000-forge/                                              
-author: CovertJaguar 
+~Railcraft:                           
+http://www.railcraft.info/                                                                                     
+author: CovertJaguar                
 
 Randomthings: 
 http://www.minecraftforum.net/topic/1832047-16x172-random-things-20-remake/                                       
