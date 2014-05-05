@@ -184,7 +184,7 @@ author: RWTema
 
 Farlanders: 
 http://www.minecraftforum.net/topic/1501583-164spmp-the-farlanders-v11c-farlander-villages-endumium-ore-and-titans/                                                                                               
-"You may use the mod as long as you don't profit with my work and have a link to the official mod page."                
+"You may use the mod as long as you don't profit with my work and have a link to the official mod page."
 author: Fabiulu
 
 FoodPlus: 
@@ -260,9 +260,10 @@ Mariculture:
 http://www.minecraftforum.net/topic/2049315-164172mariculture-121e-172-beta-2-updated-29032013/                         
 author: joshie
 
-~Mimicry: 
+Mimicry: 
 http://www.minecraftforum.net/topic/2201401-164forge-965mimicry-v1382mimic-resources-automation-supportmodular-resource/                   
-author: sparroha
+author: sparroha                                                                                                   
+"you have my permission"
 
 MinefactoryReloaded: 
 http://www.minecraftforum.net/topic/554413-100smp-pcs-mods-minefactory-reloaded-power-converters-and-more-updated-dec-19th/               
