@@ -6,6 +6,8 @@ You are allowed to use this modpack for your servers, but you are not allowed to
 Creative Commons Attribution 4.0 International License:
 http://creativecommons.org/licenses/by/4.0/
 
+If you want Pictures of the License for each mod you can visit my dropbox link:
+https://www.dropbox.com/sh/nq250be1ha0mdsy/AAA98AewND2NuXoje2lCtyD7a
 
 Advanced Genetics: 
 http://www.minecraftforum.net/topic/1988826-172164-forge-advanced-genetics-mod/                          
@@ -383,8 +385,8 @@ Slickutil:
 http://slick.ninjacave.com/slick-util/                                                                                          
 author: Slick2D
 
-SortFix: https://github.com/LexManos                                                                                             
-author: LexManos   
+SortFix: https://github.com/LexManos                                                                                         
+author: LexManos
 
 SpecialMobs: 
 http://www.minecraftforum.net/topic/1153874-16x-forge-father-toasts-mods-special-mobs-mob-properties-and-more/       
@@ -461,10 +463,6 @@ author: Emoniph
 WR-CBE: 
 http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/                                             
 author: chicken_bones
-
-XACT:
-http://www.minecraftforum.net/topic/1551715-xact-xhamolk-s-advanced-crafting-table-mc-164/                          
-author: Xhamolk_
 
 ZansMinimap: 
 https://github.com/lahwran/zanmini                                                                                                         
