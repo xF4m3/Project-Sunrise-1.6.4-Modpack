@@ -56,10 +56,6 @@ Backpack:
 http://www.minecraftforum.net/topic/1492661-15x-16x-backpacks-v-12837/                                
 author: Eydamos
 
-Bdlib: 
-http://www.curse.com/mc-mods/minecraft/Bdlib                                                         
-author: bdew
-
 Better Storage: 
 http://www.minecraftforum.net/topic/1548203-164-betterstorage-08045-wip/                           
 author: copygirl
@@ -198,10 +194,6 @@ author: Sengir
 Fossilarch Reported: 
 http://www.minecraftforum.net/topic/1708636-152sspsmp-fossils-and-archeology-revival-152-build-53-updated-august-11-2013/                   
 author: Fossils and Archeology Revival team
-
-Gendustry: 
-http://www.minecraftforum.net/topic/2160265-gendustry-111-updated-2304-172-alpha-available/                      
-author: bdew
 
 Geostrata: 
 https://sites.google.com/site/reikasminecraft/dragonapi                                 
