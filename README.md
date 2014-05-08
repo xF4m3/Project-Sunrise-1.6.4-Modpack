@@ -19,10 +19,6 @@ AdvancedMachiens Immbis:
 http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html                        
 author: Immbis
 
-Agriculture: 
-http://dl.dropboxusercontent.com/u/2944265/mods/autobuilt/index.html                        
-author: Agent_W
-
 ArsMagica2: 
 http://www.minecraftforum.net/topic/2028696-ars-magica-2-164-version-112b-updated-jan-27/         
 author: Mithion
