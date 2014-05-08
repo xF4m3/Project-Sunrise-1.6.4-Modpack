@@ -193,7 +193,7 @@ author: Fossils and Archeology Revival team
 
 Geostrata: 
 https://sites.google.com/site/reikasminecraft/dragonapi                                 
-author: reika                                                                                                                            
+author: reika                                                                                                                   
 "So long as you do not sell any of my stuff for profit or otherwise restrict it to donators, go ahead. :)"      
 
 Gregtech: 
@@ -345,9 +345,9 @@ QuarryPlus:
 http://denoflionsx.info./                                                                                         
 author: denoflionsx 
 
-~Railcraft:                           
-http://www.railcraft.info/                                                                                     
-author: CovertJaguar                
+~Railcraft: 
+http://www.railcraft.info/                                                                     
+author: CovertJaguar 
 
 Randomthings: 
 http://www.minecraftforum.net/topic/1832047-16x172-random-things-20-remake/                                       
@@ -383,8 +383,8 @@ Slickutil:
 http://slick.ninjacave.com/slick-util/                                                                                          
 author: Slick2D
 
-SortFix: https://github.com/LexManos                                                                                         
-author: LexManos
+SortFix: https://github.com/LexManos                                                                                             
+author: LexManos   
 
 SpecialMobs: 
 http://www.minecraftforum.net/topic/1153874-16x-forge-father-toasts-mods-special-mobs-mob-properties-and-more/       
@@ -427,7 +427,7 @@ http://www.minecraftforum.net/topic/1773528-164-team-cofh-mods-thermal-expansion
 author: KingLemmingCoFH
 
 Tmechworks: 
-http://minecraft.curseforge.com/mc-mods/tinkers-construct/files/8-tmechworks-0-1-4/                             
+http://www.minecraftforum.net/topic/2566444-164tinkers-mechworks/                                    
 authors: mDiyo, progwml6 
 
 Torchlevers: 
