@@ -347,9 +347,10 @@ QuarryPlus:
 http://denoflionsx.info./                                                                                         
 author: denoflionsx 
 
-~Railcraft: 
+Railcraft: 
 http://www.railcraft.info/                                                                     
 author: CovertJaguar 
+"Free The Beast United" or "whatever your name ends up being" has permission to include Railcraft provided they continue to abide by the license. Have fun. ^^"
 
 Randomthings: 
 http://www.minecraftforum.net/topic/1832047-16x172-random-things-20-remake/                                       
