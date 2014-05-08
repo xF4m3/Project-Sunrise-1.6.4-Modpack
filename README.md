@@ -437,9 +437,10 @@ Torchlevers:
 http://www.minecraftforum.net/topic/1727570-164-forge-torch-levers-and-more-version-133-updated-2014-2-4/          
 author: HitchH1k3r
 
-~Tropicraft: 
-http://www.minecraftforum.net/topic/533512-164-tropicraft-v517-tropical-realm-palm-trees-volcanoes-beaches/         
-author: Cojomax99
+Tropicraft: 
+http://tropicraft.net/                     
+author: Cojomax99                                                                                 
+"xF4m3_, you may use it in your modpack, we just request that you link back to our site wherever you have the info on the modpack :>"                     
 
 Twighligt Forest: 
 http://www.minecraftforum.net/topic/561673-172-the-twilight-forest-v203-updated-to-minecraft-17/                   
