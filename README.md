@@ -173,6 +173,10 @@ Extrautils:
 http://www.minecraftforum.net/topic/1776056-164forge-extra-utilities-v103c/                                    
 author: RWTema
 
+Factorization:                          
+http://www.minecraftforum.net/topic/1351802-164-factorization-0834/           
+author: neptunepink
+
 Farlanders: 
 http://www.minecraftforum.net/topic/1501583-164spmp-the-farlanders-v11c-farlander-villages-endumium-ore-and-titans/                                                                                               
 "You may use the mod as long as you don't profit with my work and have a link to the official mod page."
