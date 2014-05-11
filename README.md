@@ -1,7 +1,4 @@
-I am Still working on a big Textfile with every permission needed, it is alot of work though So just be patient ;)
-Mods with a ~ don’t have permissions yet but are asked for, just waiting on a reply.
-
-You are allowed to use this modpack for your servers, but you are not allowed to make money out of this in any way because the mod authors strictly forbid it! You will be fully responsible for what you do with this modpack or all mods which are in it. 
+You are allowed to use this Modpack for your servers, but you are not allowed to make Money out of this in any way, because the mod authors strictly forbid it! You will be fully responsible for what you do with this modpack or all mods which are in it. 
 
 Creative Commons Attribution 4.0 International License:
 http://creativecommons.org/licenses/by/4.0/
@@ -239,7 +236,7 @@ http://www.minecraftforum.net/topic/1831791-16xbuildcraft-logistics-pipes/#licen
 author: theZorro266
 
 Magicla Crops: 
-http://www.minecraftforum.net/topic/1633516-164sspsmp-magical-crops-version-32-farm-your-resources-forge-320-beta-15a-seriously-need-a-new-mod-spotlight-updated-260214/                                                                                                           
+http://www.minecraftforum.net/topic/1633516-164sspsmp-magical-crops-version-32-farm-your-resources-forge-320-beta-15a-seriously-need-a-new-mod-spotlight-updated-260214/                                                                 
 author: Mark719
 
 Magic Bees: 
@@ -263,9 +260,10 @@ MobiusCore:
 http://www.mobiusstrip.eu/2013/12/05/evoc-1-0-0-mobiuscore-1-0-4/                                                        
 author: ProfMobius
 
-~ModularForceFieldSystem: 
+ModularForceFieldSystem: 
 http://www.minecraftforum.net/topic/1703498-164-modular-force-field-system-force-fields-security-systems-and-automated-construction/    
-author: Calclavia
+author: Calclavia                                          
+"Sure, Archtikz anyone that comes in asking for permission can have it as long as they give credit, don't make profit and have permission for all other mods in the pack"               
 
 ModularPowersuite: 
 http://machinemuse.net/                                                                                                         
