@@ -4,13 +4,13 @@ invertYMouse:false
 mouseSensitivity:0.40140846
 fov:0.3802817
 gamma:0.6056338
-viewDistance:1
+viewDistance:0
 guiScale:3
 particles:0
 bobView:true
 anaglyph3d:false
 advancedOpengl:true
-fpsLimit:1
+fpsLimit:0
 difficulty:3
 fancyGraphics:true
 ao:2
@@ -67,20 +67,13 @@ key_key.SpellBookNext:45
 key_key.SpellBookPrev:44
 key_key.BetaParticles:20
 key_key.ToggleManaDisplay:24
+key_FZ Bag of Holding:41
+key_FZ Pocket Crafting Table:46
 key_Pneumatic Helmet Options:33
 key_[SimplyJetpacks] Switch mode:46
 key_[SimplyJetpacks] Turn on/off:33
-key_Reposition Mob Portrait:51
 key_key.backpack.openBackpack:48
 key_Change Wand Focus:33
-key_key.betterstorage.backpackOpen:48
-key_key.betterstorage.drinkingHelmet:199
-key_Open MPS Keybind GUI:37
-key_Go Down (MPS Flight Control):44
-key_Cycle Tool Backward (MPS):-1
-key_Cycle Tool Forward (MPS):-1
-key_Zoom (MPS):12
-key_Cosmetic (MPS):7
 key_ttmisc.toggleArmor:22
 key_morph.keybinds:0
 key_Empower/Quell Flux Tool/Weapon:184
@@ -96,10 +89,8 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
+key_FZ vanilla sprint:0
 key_keybind.loco.faster:11
 key_keybind.loco.slower:51
 key_keybind.loco.mode:3
 key_keybind.loco.whistle:49
-key_Activate Enchants:29
-key_Toggle Enchants:21
-key_Activate F.L.U.D.D.:47
