@@ -1,9 +1,9 @@
 music:0.0
-sound:0.04225352
+sound:0.1056338
 invertYMouse:false
 mouseSensitivity:0.40140846
 fov:0.5
-gamma:0.6056338
+gamma:0.20422535
 viewDistance:0
 guiScale:3
 particles:0
@@ -14,7 +14,7 @@ fpsLimit:1
 difficulty:3
 fancyGraphics:true
 ao:2
-clouds:false
+clouds:true
 skin:Sphax-PureBDcraft-64x-128x-Project-Sunrise.zip
 lastServer:5.45.104.115:52999
 lang:en_US
