@@ -3,7 +3,7 @@ sound:0.1056338
 invertYMouse:false
 mouseSensitivity:0.40140846
 fov:0.5
-gamma:0.20422535
+gamma:0.3
 viewDistance:0
 guiScale:3
 particles:0
