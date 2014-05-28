@@ -1,34 +1,34 @@
-music:0.0
-sound:0.1056338
+music:1.0
+sound:1.0
 invertYMouse:false
-mouseSensitivity:0.40140846
-fov:0.5
-gamma:0.6056338
-viewDistance:1
-guiScale:3
+mouseSensitivity:0.5
+fov:0.0
+gamma:0.0
+viewDistance:0
+guiScale:0
 particles:0
 bobView:true
 anaglyph3d:false
-advancedOpengl:true
-fpsLimit:0
-difficulty:3
+advancedOpengl:false
+fpsLimit:1
+difficulty:2
 fancyGraphics:true
 ao:2
 clouds:true
 skin:Sphax-PureBDcraft-64x-128x-Project-Sunrise.zip
-lastServer:5.45.104.115:52999
+lastServer:
 lang:en_US
 chatVisibility:0
 chatColors:true
 chatLinks:true
 chatLinksPrompt:true
 chatOpacity:1.0
-serverTextures:false
-snooperEnabled:false
+serverTextures:true
+snooperEnabled:true
 fullscreen:false
-enableVsync:false
+enableVsync:true
 hideServerAddress:false
-advancedItemTooltips:true
+advancedItemTooltips:false
 pauseOnLostFocus:true
 showCape:true
 touchscreen:false
@@ -49,33 +49,33 @@ key_key.jump:57
 key_key.sneak:42
 key_key.drop:16
 key_key.inventory:18
-key_key.chat:28
+key_key.chat:20
 key_key.playerlist:15
 key_key.pickItem:-98
 key_key.command:53
 key_key.tarmor:24
 key_key.tcapes.reload:88
 key_key.minimap.voxelmapmenu:50
-key_IC2 ALT Key:201
+key_IC2 ALT Key:56
 key_IC2 Boost Key:29
-key_IC2 Mode Switch Key:38
+key_IC2 Mode Switch Key:50
 key_IC2 Side Inventory Key:46
 key_IC2 Hub Expand Key:45
 key_Gravi Fly Key:33
 key_key.CastingMode:46
 key_key.SpellBookNext:45
 key_key.SpellBookPrev:44
-key_key.BetaParticles:20
+key_key.BetaParticles:48
 key_key.ToggleManaDisplay:24
 key_FZ Bag of Holding:41
 key_FZ Pocket Crafting Table:46
 key_Pneumatic Helmet Options:33
 key_[SimplyJetpacks] Switch mode:46
 key_[SimplyJetpacks] Turn on/off:33
-key_Reposition Mob Portrait:11
+key_Reposition Mob Portrait:52
 key_key.backpack.openBackpack:48
 key_Change Wand Focus:33
-key_[GC] Galaxy Map:34
+key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37
 key_[GC] Vehicle Forward Key:17
@@ -85,22 +85,22 @@ key_[GC] Vehicle Right Key:32
 key_[GC] Vehicle Up Key:57
 key_[GC] Vehicle Down Key:42
 key_ttmisc.toggleArmor:22
-key_morph.keybinds:0
-key_Empower/Quell Flux Tool/Weapon:184
+key_morph.keybinds:209
+key_Empower/Quell Flux Tool/Weapon:47
 key_xact.clear:208
 key_xact.load:200
 key_xact.prev:203
 key_xact.next:205
 key_xact.delete:211
-key_xact.openGrid:13
-key_key.control:70
+key_xact.openGrid:46
+key_key.control:29
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_FZ vanilla sprint:0
-key_keybind.loco.faster:11
+key_keybind.loco.faster:52
 key_keybind.loco.slower:51
-key_keybind.loco.mode:3
+key_keybind.loco.mode:50
 key_keybind.loco.whistle:49
