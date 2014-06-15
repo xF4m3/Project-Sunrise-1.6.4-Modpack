@@ -367,6 +367,10 @@ Reliquary:
 http://www.minecraftforum.net/topic/2237899-164v112-reliquary/                                                       
 author: TheMike
 
+RemainInMotion:
+http://forums.technicpack.net/topic/45317-16x15x-redstone-in-motion-redpower-frames-2300-october-8/
+author: JAKJ
+
 RemoteIo: 
 http://www.minecraftforum.net/topic/2038242-16x-forge-remote-io-v111-its-time-to-think-outside-the-blocks/               
 author: dmillerw
